@@ -6,15 +6,11 @@ def numRescueBoats(people,limit):
     j = len(people) - 1
     people.sort()
     while i <= j:
-        temp = []
         remain = limit - people[j]
-        temp.append(people[j])
         while people[i] <= remain and i < j:
             remain -= people[i]
-            temp.append(people[i])
             i += 1
         ans += 1
-        print(temp)
         if i >= j:
             break
         j -= 1
