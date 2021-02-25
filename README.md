@@ -10,8 +10,8 @@ Details of various online competitions where I participate.
 <img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/codechef.jpeg' />
 <h1>Contests:</h1>
 <h3>28. Codechef - Break-The-Server</h3>
-<img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/28.jpeg' />
 <hr>
+<img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/28.jpeg' />
 <h3>27. Leetcode - Weekly Contest 229 </h3>
 <img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/27.jpeg' />
 <h3>26. Leetcode - Biweekly Contest 46</h3>
