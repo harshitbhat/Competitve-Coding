@@ -9,6 +9,9 @@ Details of various online competitions where I participate.
 <h2>Codechef</h2>
 <img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/codechef.jpeg' />
 <h1>Contests:</h1>
+<h3>30. Codeforces Global Round 13</h3>
+<hr>
+<img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/30.jpeg' />
 <h3>29. Leetcode - Weekly Contest 230</h3>
 <hr>
 <img src='https://github.com/harshitbhat/Competitve-Coding/blob/master/Screenshots/29.jpeg' />
