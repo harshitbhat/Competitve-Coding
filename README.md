@@ -18,3 +18,11 @@ Link: https://codeforces.com/problemset?order=BY_SOLVED_DESC
 - [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
 - [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
 - [String Task](https://codeforces.com/problemset/problem/118/A)
+
+### Day 3
+
+- [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
+- [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+- [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
+- [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
+- [Football](https://codeforces.com/problemset/problem/96/A)
