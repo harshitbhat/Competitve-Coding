@@ -5,6 +5,7 @@ class PINBS {
     public static void solve(String str) {
 
         String common[] = { 
+            "10",
             "11", 
             "101", 
             "10001", 
