@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 class RIFFLES {
@@ -28,23 +29,33 @@ class RIFFLES {
         
     }
 
-    public static void solve(int n, int k) {
+    public static int[] solve(int n, int k) {
 
-        int arr[] = new int[n];
+        int arr1[] = new int[n];
+        int arr2[] = new int[n];
 
         for(int i = 1; i <= n; i++) {
-            arr[i-1] = i;
+            arr1[i-1] = i;
+            arr2[i-1] = i;
         }
 
-        while( k > 0) {
+        int count = 0;
+
+        do {
+            count++;
+            riffle(arr2);
+            if(count == k) {
+                return arr2;
+            }
+        } while(!Arrays.equals(arr1, arr2));
+
+        k = k % count;
+
+        while( k > 0 ) {
             k--;
-            riffle(arr);
+            riffle(arr1);
         }
-
-        for(int i = 0; i < n; i++) {
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
+        return arr1;
     }
 
     public static void main(String []args) {
@@ -53,9 +64,14 @@ class RIFFLES {
         int T = sc.nextInt();
 
         while(T > 0) {
+            T--;
             int n = sc.nextInt();
             int k = sc.nextInt();
-            solve(n,k);
+            int []ans = solve(n,k);
+            for(int i = 0; i < ans.length; i++) {
+                System.out.print(ans[i] + " ");
+            }
+            System.out.println();
         }
 
         sc.close();
