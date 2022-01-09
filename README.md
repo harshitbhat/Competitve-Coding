@@ -26,3 +26,12 @@ Link: https://codeforces.com/problemset?order=BY_SOLVED_DESC
 - [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
 - [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 - [Football](https://codeforces.com/problemset/problem/96/A)
+
+### Day 4
+
+- [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
+- [Young Physicist](https://codeforces.com/problemset/problem/69/A)
+- [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
+- [Elephant](https://codeforces.com/problemset/problem/617/A)
+- [Word](https://codeforces.com/problemset/problem/59/A)
+- [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
