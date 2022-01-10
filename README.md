@@ -35,3 +35,11 @@ Link: https://codeforces.com/problemset?order=BY_SOLVED_DESC
 - [Elephant](https://codeforces.com/problemset/problem/617/A)
 - [Word](https://codeforces.com/problemset/problem/59/A)
 - [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
+
+### Day 5
+
+- [Tram](https://codeforces.com/problemset/problem/116/A)
+- [Queue at the School](https://codeforces.com/problemset/problem/266/B)
+- [Chat room](https://codeforces.com/problemset/problem/58/A)
+- [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
+- [Translation](https://codeforces.com/problemset/problem/41/A)
