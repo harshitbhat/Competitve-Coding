@@ -43,3 +43,18 @@ Link: https://codeforces.com/problemset?order=BY_SOLVED_DESC
 - [Chat room](https://codeforces.com/problemset/problem/58/A)
 - [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
 - [Translation](https://codeforces.com/problemset/problem/41/A)
+
+### Day 6
+
+- [Lucky Division](https://codeforces.com/problemset/problem/122/A)
+- [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
+- [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
+- [Twins](https://codeforces.com/problemset/problem/160/A)
+
+### Day 7
+
+- [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
+- [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
+- [HQ9+](https://codeforces.com/problemset/problem/133/A)
+- [Presents](https://codeforces.com/problemset/problem/136/A)
+- [Magnets](https://codeforces.com/problemset/problem/344/A)
