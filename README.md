@@ -58,3 +58,11 @@ Link: https://codeforces.com/problemset?order=BY_SOLVED_DESC
 - [HQ9+](https://codeforces.com/problemset/problem/133/A)
 - [Presents](https://codeforces.com/problemset/problem/136/A)
 - [Magnets](https://codeforces.com/problemset/problem/344/A)
+
+### Day 8
+
+- [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
+- [Even Odds](https://codeforces.com/problemset/problem/318/A)
+- [Calculating Function](https://codeforces.com/problemset/problem/486/A)
+- [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)
+- [Drinks](https://codeforces.com/problemset/problem/200/B)
